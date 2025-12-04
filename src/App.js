@@ -38,7 +38,7 @@ const App = () => {
                 />  
                 <input  
                   type="url"  
-                  placeholder="Pega aquí la URL de tu imagen"  
+                  placeholder="https://www.digitecnia.com/wp-content/uploads/2017/08/partes-de-computadora-600x600.jpg"  
                   value={img}  
                   onChange={(e) => handleImageChange(index, e.target.value)}  
                   className="w-full max-w-[300px] p-2 rounded text-black text-sm"  
