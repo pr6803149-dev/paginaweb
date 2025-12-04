@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const App = () => {  
   const texts = [  
     'Aquí va tu primer texto inspirador. Edítalo directamente en el código para cambiarlo.',  
-    'Segundo panel: describe algo genial sobre tu imagen o lo que sea.',  
+    'Segundo panel: describe algo genial sobre tun o lo que sea.',  
     'Tercer texto listo para personalizar solo en el código fuente.',  
     'Cuarto: espacio para palabras que solo cambias como un pro.',  
     'Quinto y último: cierra con broche de oro, editable únicamente en el archivo.'  
