@@ -6,15 +6,15 @@ const App = () => {
     'Segundo panel: describe algo genial sobre tun o lo que sea.',  
     'Tercer texto listo para personalizar solo en el código fuente.',  
     'Cuarto: espacio para palabras que solo cambias como un pro.',  
-    'Quinto y último: cierra con broche de oro, editable únicamente en el archivo.'  
+    
   ];  
 
   const [images, setImages] = useState([  
     'Unidad 1',  
-    'https://via.placeholder.com/300x200?text=Imagen+2',  
-    'https://via.placeholder.com/300x200?text=Imagen+3',  
-    'https://via.placeholder.com/300x200?text=Imagen+4',  
-    'https://via.placeholder.com/300x200?text=Imagen+5'  
+    'Unidad 2',  
+    'Unidad 3',  
+    'Unidad 4',  
+  
   ]);  
 
   const handleImageChange = (index, url) => {  
