@@ -10,7 +10,7 @@ const App = () => {
 
   // ❗ AQUÍ SOLO CORREGIMOS LAS IMÁGENES
   const [images, setImages] = useState([
-    "", "", "", ""
+    "https://www.shutterstock.com/image-vector/cartoon-christmas-tree-decoration-isolated-260nw-2585977701.jpg", "https://cdn.pixabay.com/photo/2016/11/29/13/37/christmas-background-1869902_1280.jpg", "", ""
   ]);
 
   const handleImageChange = (index, url) => {  
