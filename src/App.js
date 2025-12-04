@@ -10,7 +10,7 @@ const App = () => {
   ];  
 
   const [images, setImages] = useState([  
-    'https://via.placeholder.com/300x200?text=Imagen+1',  
+    'Unidad 1',  
     'https://via.placeholder.com/300x200?text=Imagen+2',  
     'https://via.placeholder.com/300x200?text=Imagen+3',  
     'https://via.placeholder.com/300x200?text=Imagen+4',  
