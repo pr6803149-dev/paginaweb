@@ -26,7 +26,7 @@ const App = () => {
   return (  
     <div className="min-h-screen bg-gray-50 py-8">  
       <div className="max-w-6xl mx-auto px-4">  
-        <h1 className="text-3xl font-bold text-center text-gray-800 mb-12">Mis Paneles Café</h1>  
+        <h1 className="text-3xl font-bold text-center text-gray-800 mb-12">ARQUITECTURA DE COMPUTADORAS 2025</h1>  
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">  
           {images.map((img, index) => (  
             <div key={index} className="bg-amber-800 rounded-lg p-6 shadow-md min-h-[400px] flex flex-col items-center justify-center text-center text-white">  
