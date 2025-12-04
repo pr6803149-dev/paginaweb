@@ -40,7 +40,7 @@ const App = () => {
                 />  
 
                 <input  
-                  type="url"  
+                  type="text"  
                   placeholder="Unidades"  
                   value={img}  
                   onChange={(e) => handleImageChange(index, e.target.value)}  
